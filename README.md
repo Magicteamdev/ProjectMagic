@@ -1,0 +1,2 @@
+# ProjectMagic
+New Free Project
